@@ -1,0 +1,7 @@
+{
+  "name": "support-ticket-capacitor-share",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
