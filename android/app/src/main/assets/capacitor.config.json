@@ -1,0 +1,6 @@
+{
+	"appId": "io.ionic.starter",
+	"appName": "support-ticket-capacitor-share",
+	"webDir": "www",
+	"bundledWebRuntime": false
+}
